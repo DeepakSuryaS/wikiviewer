@@ -1,0 +1,44 @@
+body{
+  font-family: helvetica;
+  font-size: 40px;
+  background-color: #1DE9B6;
+  color: #4A148C;
+}
+h1{
+  font-family: 'Libre Barcode 39 Text', cursive;
+  font-size: 60px;
+}
+#dash{
+  font-family: 'Libre Barcode 39 Text', cursive;
+}
+#me{
+  font-size: 18px;
+}
+a{
+  
+  text-decoration: none;
+  color: #4A148C;
+}
+
+.btn{
+  width: 400px;
+  height: 40px;
+  background-color: #1DE9B6;
+  border-radius: 0px;
+  font-family: monospace;
+  border-bottom: 2px solid #4A148C;
+  margin: 10px;
+  margin-left: 100px;
+}
+
+
+.textfield{
+  width: 100%;
+  border: 2px solid #4A148C;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  boder-radius: 0px;
+  margin-top: 10%;
+  #background-color: #1DE9B6;
+}
